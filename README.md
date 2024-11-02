@@ -3,6 +3,9 @@ TLU magistri raames tootedisainis Arduinoga tehtud katsetused
 
 # Arduino IDE käivitamise juhend Mac OS-i jaoks
 MacOS-is saad Arduino ühenduse kontrollimiseks kasutada järgmist juhist:
+1.	Ühenda Arduino arvutiga USB-kaabli abil.
+2.	Avage Terminal: Otsi rakendust “Terminal” Spotlighti abil (vajuta Command + Space ja kirjuta “Terminal”) või leia see Applications > Utilities > Terminal.
+3.	Kontrolli ühendatud seadmeid: Sisesta järgmine käsk, et näha kõiki ühendatud USB-seadmeid:
 
 `ls /dev/tty.*`
 
