@@ -1,7 +1,7 @@
 # Närvilised-toolid
 TLU magistri raames tootedisainis Arduinoga tehtud katsetused
 
-# Juhend Mac OS-i jaoks
+# Arduino IDE käivitamise juhend Mac OS-i jaoks
 MacOS-is saad Arduino ühenduse kontrollimiseks kasutada järgmist juhist:
 
 	1.	Ühenda Arduino arvutiga USB-kaabli abil.
