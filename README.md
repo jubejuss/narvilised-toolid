@@ -8,7 +8,7 @@ MacOS-is saad Arduino ühenduse kontrollimiseks kasutada järgmist juhist:
 	2.	Avage Terminal: Otsi rakendust “Terminal” Spotlighti abil (vajuta Command + Space ja kirjuta “Terminal”) või leia see Applications > Utilities > Terminal.
 	3.	Kontrolli ühendatud seadmeid: Sisesta järgmine käsk, et näha kõiki ühendatud USB-seadmeid:
 
-ls /dev/tty.*
+`ls /dev/tty.*`
 
 See käsk loetleb kõik seriaalpordid. Tulemuses peaksid olema näha nimed nagu /dev/tty.usbmodemXXXX või /dev/tty.usbserialXXXX, mis on Arduinole omased. (XXXX tähistab juhuslikke tähemärke, mis võivad varieeruda.)
 
