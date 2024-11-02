@@ -18,5 +18,6 @@ See käsk loetleb kõik seriaalpordid. Tulemuses peaksid olema näha nimed nagu 
 
 Kui Arduino ei ilmu pordiloendisse, veendu, et USB-kaabel töötab korralikult ja vajadusel installi FTDI või CH340 draiverid, sõltuvalt Arduinost (mõni kloon võib neid vajada).
 
-Viimase Mac OS-i versiooni jaoks ei olnud CH340 draiverit vaja installida. Seega tasub kõigepealt testida, kas töötab. Kui ei tööta, siis üks võimalik variant draiveri installiks: https://sparks.gogo.co.nz/ch340.html
+Viimase Mac OS-i versiooni jaoks ei olnud CH340 draiverit vaja installida. Seega tasub kõigepealt testida, kas töötab. Kui ei tööta, siis üks võimalik variant draiveri installiks: https://sparks.gogo.co.nz/ch340.html või see https://www.cytron.io/tutorial/CH340_MacOS
+
 
