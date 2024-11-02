@@ -3,12 +3,10 @@
 #define LED 11
 
 void setup() {
-  // put your setup code here, to run once:
   pinMode(LED, OUTPUT);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   analogWrite(LED, 0); // 0 - 5 V = 0 - 255 (st meil on 8bitine vahemik)
   delay(aeg);
   analogWrite(LED, 75);
